@@ -1,0 +1,7 @@
+com\instagram\login\dao\UserRepository.class
+com\instagram\login\service\UserService.class
+com\instagram\login\config\SecurityConfig.class
+com\instagram\login\entity\User.class
+com\instagram\login\LoginApplication.class
+com\instagram\login\config\WebConfig.class
+com\instagram\login\controller\UserController.class

@@ -1,5 +1,5 @@
 # Ignore the target directory and its contents
-target/
+#target/
 
 # Explicitly include Maven wrapper JAR file
 !.mvn/wrapper/maven-wrapper.jar
